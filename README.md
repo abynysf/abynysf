@@ -25,7 +25,7 @@ Hey, I'm **Abyan** - a Software Engineering student at Universitas Gadjah Mada (
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abynysf&theme=react&background=1A1A1F&ring=35EEF3&fire=35EEF3&currStreakLabel=35EEF3&border=35EEF3&stroke=35EEF3&sideLabels=E4E4E7&dates=E4E4E7&currStreakNum=E4E4E7&sideNums=E4E4E7&v=3" />
+  <img src="https://streak-stats.demolab.com?user=abynysf&theme=react&background=1A1A1F&ring=35EEF3&fire=35EEF3&currStreakLabel=35EEF3&border=35EEF3&stroke=35EEF3&sideLabels=E4E4E7&dates=E4E4E7&currStreakNum=E4E4E7&sideNums=E4E4E7" />
 </p>
 
 ## Contribution Snake
