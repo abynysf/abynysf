@@ -25,11 +25,6 @@ Hey, I'm **Abyan** - a Software Engineering student at Universitas Gadjah Mada (
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abynysf&show_icons=true&theme=react&bg_color=1A1A1F&title_color=35EEF3&icon_color=35EEF3&border_color=35EEF3&text_color=E4E4E7" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abynysf&layout=compact&theme=react&bg_color=1A1A1F&title_color=35EEF3&border_color=35EEF3&text_color=E4E4E7" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=abynysf&theme=react&background=1A1A1F&ring=35EEF3&fire=35EEF3&currStreakLabel=35EEF3&border=35EEF3&stroke=35EEF3&sideLabels=E4E4E7&dates=E4E4E7&currStreakNum=E4E4E7&sideNums=E4E4E7" />
 </p>
 
