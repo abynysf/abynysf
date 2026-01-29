@@ -13,7 +13,6 @@
 Hey, I'm **Abyan** - a Software Engineering student at Universitas Gadjah Mada (UGM) in Indonesia.
 
 - Currently transitioning into **Web3 development**
-- Building a dark futuristic portfolio with GSAP & Three.js
 - 13 months of fintech experience under my belt
 - Always exploring the intersection of design and code
 
