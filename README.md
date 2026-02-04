@@ -19,7 +19,7 @@ Hey, I'm **Aby** - a Software Engineer passionate about building things that mat
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,solidity,react,nextjs,tailwind,fastapi,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,py,solidity,react,nextjs,tailwind,fastapi,mongodb,postgres,docker,redis,git,figma&theme=dark" />
 </p>
 
 ## Contribution Snake
