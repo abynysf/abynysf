@@ -10,11 +10,11 @@
 
 ## About Me
 
-Hey, I'm **Aby** - a Software Engineer passionate about building things that matter.
+Hey, I'm **Aby** - a Software Engineer passionate about building things that matter. 🚀
 
-- Engineer with a love for **fintech** and all things financial
-- Currently diving deep into **DeFi** and **Web3**
-- 13 months of fintech experience and counting
+- 💰 Engineer with a love for **fintech** and all things financial
+- ⛓️ Currently diving deep into **DeFi** and **Web3**
+- 📈 13 months of fintech experience and counting
 
 ## Tech Stack
 
