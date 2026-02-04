@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="./banner.png" alt="Abyan Yusuf - Software Engineer" width="100%"/>
+<img src="./banner.gif" alt="Abyan Yusuf - Software Engineer" width="100%"/>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -10,11 +10,11 @@
 
 ## About Me
 
-Hey, I'm **Abyan** - a Software Engineering student at Universitas Gadjah Mada (UGM) in Indonesia.
+Hey, I'm **Aby** - a Software Engineer passionate about building things that matter.
 
-- Currently transitioning into **Web3 development**
-- 13 months of fintech experience under my belt
-- Always exploring the intersection of design and code
+- Engineer with a love for **fintech** and all things financial
+- Currently diving deep into **DeFi** and **Web3**
+- 13 months of fintech experience and counting
 
 ## Tech Stack
 
