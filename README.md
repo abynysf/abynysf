@@ -22,7 +22,7 @@ Hey, I'm **Aby** - a Software Engineer passionate about building things that mat
   <img src="https://skillicons.dev/icons?i=ts,py,solidity,react,nextjs,tailwind,fastapi,mongodb,postgres,docker,redis,git,figma&theme=dark" />
 </p>
 
-## Contribution Snake
+## My Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abynysf/abynysf/output/github-snake-dark.svg" alt="Snake animation" />
